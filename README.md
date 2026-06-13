@@ -74,7 +74,7 @@
 
 **获取方式**：Star本项目后，查看仓库置顶Issue获取最新网盘链接与提取码
 
-💡 资源说明：全网规整最优版本，同步更新仓库增补资料，省心省力无需逐份搜集。
+💡 NiHaisha-Agent：https://github.com/Lance-myk/NiHaisha-Agent
 
 ### 💖 支持我
 
